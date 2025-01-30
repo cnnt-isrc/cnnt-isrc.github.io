@@ -10,13 +10,10 @@ permalink: /team/
 
 <!-- Staff -->
 
-{% for post in site.posts %}
-  <p>{{ post.title }} - {{ post.category }}</p>
-{% endfor %}
-
 <h2><a id="staff"></a>Staff</h2>
 {% assign members = site.posts | where_exp: "post", "post.category contains 'staff'" %} {% for member in
 members %}
+<p>{{ member.title }} - {{ member.category }}</p>
 <div class="card team-member-card">
   <div class="row mt-3">
     <div class="col-md-2">
