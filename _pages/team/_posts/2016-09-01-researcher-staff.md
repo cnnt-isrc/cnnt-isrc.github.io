@@ -4,7 +4,7 @@ category: staff
 title: Professor KongFatt Wong-Lin
 image: researcher.png
 role: Team Leader
-permalink: 'https://github.com/cnnt-isrc/cnnt-isrc.github.io/blob/a4c83b6f833f32d1d91c5bc6707bf44db3b5fe82/_pages/team/_posts/2016-09-01-researcher-staff.md'
+permalink: https://github.com/cnnt-isrc/cnnt-isrc.github.io/blob/a4c83b6f833f32d1d91c5bc6707bf44db3b5fe82/_pages/team/_posts/2016-09-01-researcher-staff.md
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
