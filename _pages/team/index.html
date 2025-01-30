@@ -12,6 +12,7 @@ permalink: /team/
 
 <h2><a id="staff"></a>Staff</h2>
 {% assign members = site.posts | where: 'category', 'staff' %}
+<p>{{ members | size }}</p>
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
