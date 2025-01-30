@@ -4,7 +4,7 @@ category: staff
 title: Saugat Bhattacharyya
 image: researcher.png
 role: Lecturer
-permalink: https://github.com/cnnt-isrc/cnnt-isrc.github.io/blob/7f6b1f4fa7746e4f4d592a2e4f48cae0c609cd24/_pages/team/_posts/2025-01-30-sbresearcher-staff.md
+permalink: 'team/sbresearcher-staff'
 social:
   twitter: https://twitter.com/
   linkedin: https://www.linkedin.com/
