@@ -1,7 +1,7 @@
 ---
 layout: member
-category: staff
-title: Professor KongFatt Wong-Lin
+category: extrastaff
+title: Saugat Bhattacharyya
 image: researcher.png
 role: Team Leader
 permalink: "team/saugat-bhattacharyya-staff"
