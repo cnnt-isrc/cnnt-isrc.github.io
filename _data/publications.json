@@ -1,38 +1,34 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "https://direct.mit.edu/neco/article/doi/10.1162/neco_a_01736/127435",
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"title": "Uncovering Dynamical Equations of Stochastic Decision Models Using Data-Driven SINDy Algorithm",
+		"container-title": "Neural Computation",
+		"page": "1-19",
+		"volume": "1",
+		"issue": "0",
+		"source": "MIT Press",
+		"abstract": "Decision formation in perceptual decision making involves sensory evidence accumulation instantiated by the temporal integration of an internal decision variable toward some decision criterion or threshold, as described by sequential sampling theoretical models. The decision variable can be represented in the form of experimentally observable neural activities. Hence, elucidating the appropriate theoretical model becomes crucial to understanding the mechanisms underlying perceptual decision formation. Existing computational methods are limited to either fitting of choice behavioral data or linear model estimation from neural activity data. In this work, we made use of sparse identification of nonlinear dynamics (SINDy), a data-driven approach, to elucidate the deterministic linear and nonlinear components of often-used stochastic decision models within reaction time task paradigms. Based on the simulated decision variable activities of the models and assuming the noise coefficient term is known beforehand, SINDy, enhanced with approaches using multiple trials, could readily estimate the deterministic terms in the dynamical equations, choice accuracy, and decision time of the models across a range of signal-to-noise ratio values. In particular, SINDy performed the best using the more memory-intensive multitrial approach while trial averaging of parameters performed more moderately. The single-trial approach, although expectedly not performing as well, may be useful for real-time modeling. Taken together, our work offers alternative approaches for SINDy to uncover the dynamics in perceptual decision making and, more generally, for first-passage time problems.",
+		"DOI": "https://doi.org/10.1162/neco_a_01736",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Lenfesty",
+				"given": "B."
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Bhattacharyya",
+				"given": "S."
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
-			},
-			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Wong-Lin",
+				"given": "KongFatt"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
-					2
+					"2025",
+					1
 				]
 			]
 		}
