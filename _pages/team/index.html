@@ -35,6 +35,10 @@ members %}
 </div>
 {% endfor %}
 
+{% for post in site.posts %}
+  <p>{{ post.title }} - {{ post.category }}</p>
+{% endfor %}
+
 <!-- Students -->
 
 <h2><a id="student"></a>Students</h2>
