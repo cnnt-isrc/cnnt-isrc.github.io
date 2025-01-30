@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: Saugat Bhattacharyya
+title: Saugat Bhattacharya
 image: researcher.png
 role: Lecturer (Assistant Professor)
 permalink: 'team/saugat-bhattacharyya'
