@@ -1,10 +1,29 @@
 ---
 layout: member
 category: staff
-title: Saugat Bhattacharyya
+title: Professor KongFatt Wong-Lin
 image: researcher.png
-role: Lab Director
+role: Team Leader
 permalink: 'team/researcher-name'
+social:
+    twitter: https://twitter.com/
+    linkedin: https://www.linkedin.com/
+    google-scholar: https://scholar.google.fr/
+    github: https://github.com/
+    website:
+    orcid: https://orcid.org/
+    research-gate: https://www.researchgate.net/
+education:
+ - Education
+---
+
+---
+layout: member
+category: staff
+title: Dr Saugat Bhattacharyya
+image: researcher.png
+role: Lecturer/Assistant Professor
+permalink: 'team/staff_saugatbhattacharyya'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
