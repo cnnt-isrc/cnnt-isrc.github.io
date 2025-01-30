@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Saugat Bhattacharyya
 image: researcher.png
-role: Team Leader
+role: Lecturer
 permalink: "[team/saugat-bhattacharyya-staff](https://github.com/cnnt-isrc/cnnt-isrc.github.io/blob/4d314a4dcb73bcde018b4a33058a7765c683618a/_pages/team/_posts/2025-01-31-saugat-bhattacharyya-staff.md)"
 social:
   twitter: https://twitter.com/
