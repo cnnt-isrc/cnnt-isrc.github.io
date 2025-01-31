@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: Prof. Girijesh Prasad
+title: Professor Girijesh Prasad
 image: researcher.png
 role: NIFBM Director
 permalink: 'team/gpresearcher-staff'
