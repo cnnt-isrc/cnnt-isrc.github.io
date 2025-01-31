@@ -13,7 +13,7 @@ social:
   website:
   orcid: https://orcid.org/
   research-gate: https://www.researchgate.net/
-Research Interests:
+interests:
   - Brain-Computer Interfacing, Neuro-imaging, Bio-Signal Processing
 ---
 
