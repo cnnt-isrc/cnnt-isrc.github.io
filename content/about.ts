@@ -11,4 +11,4 @@ export const VIDEO_URL = "/videos/sample.mp4";
 
 /** The main content/description of your lab or organization - appears below the title */
 export const ABOUT_US_CONTENT =
-  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quae recusandae labore? Fuga iusto exercitationem minus error totam possimus deserunt dolore facere cum alias sequi quia, perspiciatis velit autem sapiente.";
+  "This is the website of Cognitive Neuroscience and Neurotechnology team. ";
